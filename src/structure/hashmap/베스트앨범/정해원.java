@@ -63,6 +63,6 @@ class Solution {
             //list.get(0)[0] 은 그 노래의 인덱스. list 크기가 2 이상일 때만 추가
         }
             return result.stream().mapToInt(i->i).toArray();
-           //프로그래머스는 반환 타입에 맞게 List<Integer> 를 int[]로 변환
+           //프로그래머스 반환 타입에 맞게 List<Integer> 를 int[]로 변환
         }
     }
