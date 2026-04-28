@@ -1,8 +1,6 @@
 package structure.hashmap.phone_book;
 
-import java.util.HashMap;
-
-public class HanDahyeon {
+public class HanDahyun {
     public static void main(String[] args) {
         Solution s = new Solution();
 

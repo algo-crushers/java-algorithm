@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
-public class HanDahyeon {
+public class HanDaHyun {
     public static void main(String[] args) {
         Solution s = new Solution();
 
