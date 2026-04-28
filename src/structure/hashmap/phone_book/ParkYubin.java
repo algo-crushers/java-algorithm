@@ -1,11 +1,10 @@
-package structure.hashmap.전화번호목록;
+package structure.hashmap.phone_book;
 
 import java.util.HashMap;
-import java.util.Map;
 
-public class 박유빈 {
+public class ParkYubin {
     public static void main(String[] args) {
-        박유빈 instance = new 박유빈();
+        ParkYubin instance = new ParkYubin();
         String[] arr1 = {"119", "97674223", "1195524421"};
         System.out.println(instance.solution(arr1));
 
@@ -14,7 +13,6 @@ public class 박유빈 {
 
         String[] arr3 = {"12","123","1235","567","88"};
         System.out.println(instance.solution(arr3));
-
     }
 
     public boolean solution(String[] phone_book) {

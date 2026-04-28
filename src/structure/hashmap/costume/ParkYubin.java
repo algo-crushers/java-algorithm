@@ -1,11 +1,11 @@
-package structure.hashmap.의상;
+package structure.hashmap.costume;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class 박유빈 {
+public class ParkYubin {
     public static void main(String[] args) {
-        박유빈 instance = new 박유빈();
+        ParkYubin instance = new ParkYubin();
         String[][] clothes1 = {{"yellowhat", "headgear"}, {"bluesunglasses", "eyewear"}, {"green_turban", "headgear"}};
         System.out.println(instance.solution(clothes1));
         String[][] clothes2 = {{"crowmask", "face"}, {"bluesunglasses", "face"}, {"smoky_makeup", "face"}};
