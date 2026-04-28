@@ -3,7 +3,7 @@ package structure.hashmap.costume;
 import java.util.HashMap;
 import java.util.Map;
 
-public class HanDahyeon {
+public class HanDahyun {
     public static void main(String[] args) {
         Solution s = new Solution();
 
