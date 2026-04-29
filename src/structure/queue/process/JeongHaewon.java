@@ -1,8 +1,9 @@
-/*스택/큐 - 프로세스*/
-/*현재 일부 테스트 실패*/
-import java.util.*;
+package structure.queue.process;
 
-public class 정해원 {
+import java.util.ArrayDeque;
+import java.util.Deque;
+
+public class JeongHaewon {
     public static void main(String[] args){
         Solution sol = new Solution();
 
@@ -12,7 +13,9 @@ public class 정해원 {
         int answer = sol.solution(priorities, location);
         System.out.println(answer);
     }
+
 }
+
 
 class Solution {
     public int solution(int[] priorities, int location){
@@ -60,6 +63,6 @@ class Solution {
             deque.removeFirst();
         }
         //System.out.print("answer:"+answer);
-            return answer;
-        }
+        return answer;
+    }
 }
