@@ -1,5 +1,7 @@
 package structure.stack.correct_parentheses;
 
+import java.util.*;
+
 public class HanDaHyun {
     public static void main(String[] args) {
         HanDaHyun dh = new HanDaHyun();
@@ -16,8 +18,19 @@ public class HanDaHyun {
     }
 
     boolean solution(String s) {
-        boolean answer = true;
+        Deque<Character> dq = new ArrayDeque<>();
 
-        return answer;
+        for (char c : s.toCharArray()) {
+            if (dq.isEmpty() && c == ')') {
+                return false;
+            }
+
+            if (c == '(') {
+                dq.addLast(c);
+            } else {
+                dq.poll();
+            }
+        }
+        return dq.isEmpty();
     }
 }
