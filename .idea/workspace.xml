@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deffe819-1f6b-4af4-a24c-da5b6ccc0099" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/structure/stack/stock_prices/JeongHaeWon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/stack/correct_parentheses/JeongHaewon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/stack/correct_parentheses/JeongHaeWon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/queue/process/JeongHaewon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/queue/process/JeongHaewon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/stack/correct_parentheses/JeongHaeWon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/stack/correct_parentheses/JeongHaeWon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,8 @@
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.HanDaHyun.executor": "Run",
-    "애플리케이션.JeongHaeWon.executor": "Run"
+    "애플리케이션.JeongHaeWon.executor": "Run",
+    "애플리케이션.JeongHaewon.executor": "Run"
   }
 }]]></component>
   <component name="RunManager">
@@ -94,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1777948993721</updated>
-      <workItem from="1777987713338" duration="3752000" />
+      <workItem from="1777987713338" duration="6225000" />
     </task>
     <servers />
   </component>

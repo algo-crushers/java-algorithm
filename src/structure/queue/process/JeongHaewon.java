@@ -1,7 +1,5 @@
 package structure.queue.process;
-
-import java.util.ArrayDeque;
-import java.util.Deque;
+import java.util.*;
 
 public class JeongHaewon {
     public static void main(String[] args){
@@ -15,8 +13,53 @@ public class JeongHaewon {
     }
 
 }
+class Solution {
+    public int solution(int[] priorities, int location) {
+
+        //1. 초기 대기열 만들기
+        Queue<int[]> qu = new LinkedList<>();
+        for (int i = 0; i < priorities.length; i++) {
+            qu.add(new int[]{priorities[i], i}); // {우선순위, 원래 위치}를 담을 큐
+        }
+
+        //2. 인쇄가 확정된 순서대로 담을 리스트
+        List<int[]> printOrder = new ArrayList<>();
+
+        //3. 큐가 빌때까지 인쇄 순서 정하기
+        while (!qu.isEmpty()) {
+            int[] current = qu.poll();
+            boolean hasHigher = false; //큰 값 있음
+
+            //큐에 높은게 남아있는지 확인
+            for (int[] i : qu) {
+                if (i[0] > current[0]) {
+                    hasHigher = true;
+                    break;
+                }
+            }
+
+            if (hasHigher) {
+                qu.add(current);
+            } else {
+                printOrder.add(current);
+            }
+        }
+            //4. 완성된 인쇄 목록에서 내 location 찾기
+            int answer = 0;
+            for (int i = 0; i < printOrder.size(); i++) {
+                if (printOrder.get(i)[1] == location) {
+                    answer = i + 1;
+                    break;
+                }
+            }
+
+        return answer;
+    }
+}
 
 
+/*
+기존 코드
 class Solution {
     public int solution(int[] priorities, int location){
         Deque<Character> deque = new ArrayDeque<>(); // 배열 기반으로 만든 Deque (속도가 빠름)
@@ -66,3 +109,4 @@ class Solution {
         return answer;
     }
 }
+*/
