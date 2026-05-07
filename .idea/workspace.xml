@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deffe819-1f6b-4af4-a24c-da5b6ccc0099" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/bfs/network/ParkYubin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/heap/more_spicy/ParkYuBin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/stack/correct_parentheses/ParkYuBin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/stack/stock_prices/ParkYuBin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/queue/process/JeongHaewon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/queue/process/JeongHaewon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/stack/correct_parentheses/JeongHaeWon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/stack/correct_parentheses/JeongHaeWon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +52,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HanDaHyun.executor": "Run",
+    "Application.ParkYuBin.executor": "Run",
+    "Application.ParkYubin.executor": "Run",
+    "Application.structure.heap.more_spicy.ParkYuBin.executor": "Run",
+    "Application.structure.stack.stock_prices.ParkYuBin.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -58,6 +64,10 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
@@ -68,7 +78,7 @@
     "애플리케이션.JeongHaewon.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ParkYubin">
     <configuration name="HanDaHyun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="structure.stack.correct_parentheses.HanDaHyun" />
       <module name="java-algorithm" />
@@ -82,9 +92,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ParkYuBin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structure.stack.correct_parentheses.ParkYuBin" />
+      <module name="java-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structure.stack.correct_parentheses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParkYubin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bfs.network.ParkYubin" />
+      <module name="java-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bfs.network.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="structure.heap.more_spicy.ParkYuBin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structure.heap.more_spicy.ParkYuBin" />
+      <module name="java-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structure.heap.more_spicy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="structure.stack.stock_prices.ParkYuBin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structure.stack.stock_prices.ParkYuBin" />
+      <module name="java-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structure.stack.stock_prices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.HanDaHyun" />
+        <item itemvalue="Application.ParkYubin" />
+        <item itemvalue="Application.structure.heap.more_spicy.ParkYuBin" />
+        <item itemvalue="Application.structure.stack.stock_prices.ParkYuBin" />
+        <item itemvalue="Application.ParkYuBin" />
       </list>
     </recent_temporary>
   </component>
