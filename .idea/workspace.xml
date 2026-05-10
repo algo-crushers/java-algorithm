@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deffe819-1f6b-4af4-a24c-da5b6ccc0099" name="Changes" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/src/structure/bfs/network/JeongHaeWon.java" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/src/bfs/network/ParkYubin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/heap/more_spicy/ParkYuBin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/stack/correct_parentheses/ParkYuBin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/stack/stock_prices/ParkYuBin.java" afterDir="false" />
->>>>>>> 086fe53fbf7c09317da82117b248810ac7188db2
+      <change afterPath="$PROJECT_DIR$/src/structure/heap/disk_controller/HaewonJeong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/heap/more_spicy/HaewonJeong.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,12 +72,18 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.HaewonJeong.executor": "Run",
     "애플리케이션.HanDaHyun.executor": "Run",
     "애플리케이션.JeongHaeWon.executor": "Run",
     "애플리케이션.JeongHaewon.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ParkYubin">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="structure.heap.more_spicy" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="HanDaHyun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="structure.stack.correct_parentheses.HanDaHyun" />
       <module name="java-algorithm" />
@@ -151,10 +151,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ParkYubin" />
-        <item itemvalue="Application.structure.heap.more_spicy.ParkYuBin" />
-        <item itemvalue="Application.structure.stack.stock_prices.ParkYuBin" />
-        <item itemvalue="Application.ParkYuBin" />
+        <item itemvalue="애플리케이션.HanDaHyun" />
       </list>
     </recent_temporary>
   </component>
