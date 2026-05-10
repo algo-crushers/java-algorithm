@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deffe819-1f6b-4af4-a24c-da5b6ccc0099" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/structure/heap/disk_controller/HaewonJeong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/heap/more_spicy/HaewonJeong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/heap/more_spicy/HanDahyun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HanDaHyun.executor": "Run",
+    "Application.HanDahyun.executor": "Run",
     "Application.ParkYuBin.executor": "Run",
     "Application.ParkYubin.executor": "Run",
     "Application.structure.heap.more_spicy.ParkYuBin.executor": "Run",
@@ -83,13 +83,13 @@
       <recent name="structure.heap.more_spicy" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="HanDaHyun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure.stack.correct_parentheses.HanDaHyun" />
+  <component name="RunManager" selected="Application.HanDahyun">
+    <configuration name="HanDahyun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structure.heap.more_spicy.HanDahyun" />
       <module name="java-algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structure.stack.correct_parentheses.*" />
+          <option name="PATTERN" value="structure.heap.more_spicy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,7 +151,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.HanDaHyun" />
+        <item itemvalue="Application.HanDahyun" />
       </list>
     </recent_temporary>
   </component>
