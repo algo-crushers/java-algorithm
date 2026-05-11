@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deffe819-1f6b-4af4-a24c-da5b6ccc0099" name="Changes" comment="">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/src/structure/heap/more_spicy/HanDahyun.java" afterDir="false" />
+>>>>>>> 6e565c9b9dcbc52a4403077d7da5813eba035f47
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/structure/heap/disk_controller/HaewonJeong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/heap/disk_controller/HaewonJeong.java" afterDir="false" />
     </list>
@@ -46,6 +50,7 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.HanDaHyun.executor&quot;: &quot;Run&quot;,
@@ -75,6 +80,38 @@
     &quot;애플리케이션.HanDaHyun.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.JeongHaeWon.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.JeongHaewon.executor&quot;: &quot;Run&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HanDaHyun.executor": "Run",
+    "Application.HanDahyun.executor": "Run",
+    "Application.ParkYuBin.executor": "Run",
+    "Application.ParkYubin.executor": "Run",
+    "Application.structure.heap.more_spicy.ParkYuBin.executor": "Run",
+    "Application.structure.stack.stock_prices.ParkYuBin.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.HaewonJeong.executor": "Run",
+    "애플리케이션.HanDaHyun.executor": "Run",
+    "애플리케이션.JeongHaeWon.executor": "Run",
+    "애플리케이션.JeongHaewon.executor": "Run"
+>>>>>>> 6e565c9b9dcbc52a4403077d7da5813eba035f47
   }
 }</component>
   <component name="RecentsManager">
@@ -82,13 +119,13 @@
       <recent name="structure.heap.more_spicy" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="HanDaHyun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure.stack.correct_parentheses.HanDaHyun" />
+  <component name="RunManager" selected="Application.HanDahyun">
+    <configuration name="HanDahyun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structure.heap.more_spicy.HanDahyun" />
       <module name="java-algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structure.stack.correct_parentheses.*" />
+          <option name="PATTERN" value="structure.heap.more_spicy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,7 +187,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.HanDaHyun" />
+        <item itemvalue="Application.HanDahyun" />
       </list>
     </recent_temporary>
   </component>
