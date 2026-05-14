@@ -4,180 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deffe819-1f6b-4af4-a24c-da5b6ccc0099" name="Changes" comment="">
-<<<<<<< HEAD
-=======
-      <change afterPath="$PROJECT_DIR$/src/structure/heap/more_spicy/HanDahyun.java" afterDir="false" />
->>>>>>> 6e565c9b9dcbc52a4403077d7da5813eba035f47
+    <list default="true" id="cc8df98e-1408-4805-a395-3368312b9f4e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/structure/sorting/HanDaHyun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/heap/disk_controller/HaewonJeong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/heap/disk_controller/HaewonJeong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bfs/network/ParkYubin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/bfs/network/ParkYubin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;dh0250&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dh0250"
   }
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/algo-crushers/java-algorithm.git",
-    "accountId": "57647690-114b-4901-a0b2-11799094f8e4"
+    "accountId": "c421c8c2-aff9-492d-b9cc-7f085ce525c0"
   }
 }]]></component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="3DHpkX1rrSitKJP5g10RCvwXYJ9" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3DiCwPtdJv2vmmSHw9gVBPae2MD" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< HEAD
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.HanDaHyun.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ParkYuBin.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ParkYubin.executor&quot;: &quot;Run&quot;,
-    &quot;Application.structure.heap.more_spicy.ParkYuBin.executor&quot;: &quot;Run&quot;,
-    &quot;Application.structure.stack.stock_prices.ParkYuBin.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.HaewonJeong.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.HanDaHyun.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.JeongHaeWon.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.JeongHaewon.executor&quot;: &quot;Run&quot;
-=======
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HanDaHyun.executor": "Run",
-    "Application.HanDahyun.executor": "Run",
-    "Application.ParkYuBin.executor": "Run",
-    "Application.ParkYubin.executor": "Run",
-    "Application.structure.heap.more_spicy.ParkYuBin.executor": "Run",
-    "Application.structure.stack.stock_prices.ParkYuBin.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.HaewonJeong.executor": "Run",
-    "애플리케이션.HanDaHyun.executor": "Run",
-    "애플리케이션.JeongHaeWon.executor": "Run",
-    "애플리케이션.JeongHaewon.executor": "Run"
->>>>>>> 6e565c9b9dcbc52a4403077d7da5813eba035f47
+    "kotlin-language-version-configured": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="structure.heap.more_spicy" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.HanDahyun">
-    <configuration name="HanDahyun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure.heap.more_spicy.HanDahyun" />
+}]]></component>
+  <component name="RunManager">
+    <configuration name="HanDaHyun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structure.sorting.HanDaHyun" />
       <module name="java-algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structure.heap.more_spicy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParkYuBin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure.stack.correct_parentheses.ParkYuBin" />
-      <module name="java-algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="structure.stack.correct_parentheses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParkYubin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bfs.network.ParkYubin" />
-      <module name="java-algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bfs.network.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="structure.heap.more_spicy.ParkYuBin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure.heap.more_spicy.ParkYuBin" />
-      <module name="java-algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="structure.heap.more_spicy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="structure.stack.stock_prices.ParkYuBin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure.stack.stock_prices.ParkYuBin" />
-      <module name="java-algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="structure.stack.stock_prices.*" />
+          <option name="PATTERN" value="structure.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,24 +62,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HanDahyun" />
+        <item itemvalue="Application.HanDaHyun" />
       </list>
     </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="deffe819-1f6b-4af4-a24c-da5b6ccc0099" name="Changes" comment="" />
-      <created>1777948993721</created>
+      <changelist id="cc8df98e-1408-4805-a395-3368312b9f4e" name="Changes" comment="" />
+      <created>1778755742368</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1777948993721</updated>
-      <workItem from="1777987713338" duration="6364000" />
-      <workItem from="1778161596796" duration="2999000" />
-      <workItem from="1778510646721" duration="3095000" />
+      <updated>1778755742368</updated>
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
 </project>
