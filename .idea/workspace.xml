@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc8df98e-1408-4805-a395-3368312b9f4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/structure/sorting/HanDaHyun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bfs/network/ParkYubin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/bfs/network/ParkYubin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +39,7 @@
     "Application.HanDaHyun.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
@@ -48,11 +47,11 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="HanDaHyun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure.sorting.HanDaHyun" />
+      <option name="MAIN_CLASS_NAME" value="structure.sorting.largestnumber.HanDaHyun" />
       <module name="java-algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structure.sorting.*" />
+          <option name="PATTERN" value="structure.sorting.largestnumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
