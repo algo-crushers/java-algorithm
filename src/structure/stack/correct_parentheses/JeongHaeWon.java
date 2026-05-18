@@ -1,7 +1,6 @@
 package structure.stack.correct_parentheses;
 import java.util.Stack;
-/*작성중
-* 결과 84.6/100.0 */
+/*수정-통과*/
 public class JeongHaeWon {
     public static void main(String[] args) {
         JeongHaeWon hw = new JeongHaeWon();
@@ -19,7 +18,7 @@ public class JeongHaeWon {
         for(int i = 0 ; i<ch_arr.length; i++){
             System.out.println(i);
             //")()(" 예외처리
-            if(ch_arr[0] == ')'){
+            if( (ch_arr[i] == ')') && (sk.isEmpty()) ){
                 answer = false;
                 break;
             }
