@@ -1,16 +1,49 @@
 package structure.sorting.hIndex;
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 
 public class JeongHaeWon {
     public static void main(String[] args) {
 
         JeongHaeWon hw = new JeongHaeWon();
-        int[] citations = { 3,0,6,15 };
+        //int[] citations = { 3,0,6,1, 5 };
+        int[] citations = { 10, 50, 100 };
         System.out.println( hw.Solution(citations) );
 
     }
-    /*통과 코드*/
-    public int Solution(int[] citations){
+    /*개선 코드 (통과 O)
+    * 설명: https://youngdesigners.tistory.com/manage/newpost/100?type=post&returnURL=ENTRY
+    *  */
+ public int Solution(int[] citations){
+
+        int answer = 0;
+        ArrayList<Integer> hindexs = new ArrayList<>();
+        for(int i = 0; i <= citations.length; i++){
+            int habove = 0;
+            int hbelow = 0;
+
+            for(int j =0; j < citations.length; j++){
+                if( i <= citations[j] ){
+                    habove++;
+                }else {
+                    hbelow++;
+                }
+            }
+            if ( (habove >= i) && (i >= hbelow) ){
+                hindexs.add(i);
+           }
+        }
+
+        Collections.sort(hindexs, Collections.reverseOrder());
+        answer = hindexs.get(0);
+        return answer;
+    }
+    }
+
+
+/*배열 먼저 오름차순 정렬 코드*/
+    /*public int Solution(int[] citations){
 
         int answer = 0; //결과를 저장할 변수 초기화
         Arrays.sort(citations); //논문 인용 횟수를 오름차순으로 정렬
@@ -27,12 +60,15 @@ public class JeongHaeWon {
             }
         }
         return answer; //최종 H-Index 반환
-    }
-}
 
-/*초기 코드
-합계: 6.3 / 100.0*/
-/*public int Solution(int[] citations){
+     */
+
+/*초기 코드 (통과X)
+합계: 6.3 / 100.0
+문제점 : 논문인용횟수와 habove만을 비교해서, [10,50,100] 배열은 통과가 안됨 예시) 3 >= 10 && 10 >= 0
+*/
+    /*
+public int Solution(int[] citations){
         //정렬...
         //3번이상 인용된 논문이 3편이상이고, 나머지 논문이 h번이하 인용
         int answer = 0;
@@ -66,4 +102,4 @@ public class JeongHaeWon {
         answer = hindexs.get(0);
         return answer;
     }
-* */
+    * */
