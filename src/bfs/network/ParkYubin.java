@@ -1,4 +1,4 @@
-package structure.bfs.network;
+package bfs.network;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

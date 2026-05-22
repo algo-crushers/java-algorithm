@@ -1,6 +1,5 @@
-package structure.sorting.hIndex;
+package sorting.hIndex;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 
 public class JeongHaeWon {

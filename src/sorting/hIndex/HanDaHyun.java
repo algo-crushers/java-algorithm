@@ -1,4 +1,4 @@
-package structure.sorting.hIndex;
+package sorting.hIndex;
 
 import java.util.Arrays;
 

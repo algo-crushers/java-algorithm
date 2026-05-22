@@ -1,4 +1,4 @@
-package structure.sorting.largest_number;
+package sorting.largest_number;
 import java.util.Arrays;
 import java.util.Comparator;
 

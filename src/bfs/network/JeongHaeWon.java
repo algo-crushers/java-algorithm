@@ -1,4 +1,4 @@
-package structure.bfs.network;
+package bfs.network;
 import java.util.LinkedList;
 import java.util.Queue;
 /*푸는중!*/
