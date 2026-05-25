@@ -11,7 +11,7 @@ public class HaewonJeong {
         HaewonJeong hw = new HaewonJeong();
         int[][] wires = {{1, 3}, {2, 3}, {3, 4}, {4, 5}, {4, 6}, {4, 7}, {7, 8}, {7, 9}};
         System.out.println(hw.solution(9, wires));
-    } //1,3 2,3 3,4 4,5 6,7
+    }
 
     public int solution(int n, int[][] wires) {
         int resVal = Integer.MAX_VALUE;

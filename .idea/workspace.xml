@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bbe8b8e-b937-4080-8e70-28bf8b6c895f" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bruteforce/divide_electrical_grid_in_two/HaewonJeong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bruteforce/divide_electrical_grid_in_two/HaewonJeong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bruteforce/divide_electrical_grid_in_two/HaewonJeong.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +83,7 @@
       <updated>1779004222473</updated>
       <workItem from="1779004223505" duration="1087000" />
       <workItem from="1779114581220" duration="601000" />
-      <workItem from="1779676583008" duration="5847000" />
+      <workItem from="1779676583008" duration="5998000" />
     </task>
     <servers />
   </component>
