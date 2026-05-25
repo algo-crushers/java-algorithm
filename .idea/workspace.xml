@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bbe8b8e-b937-4080-8e70-28bf8b6c895f" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/structure/sorting/hIndex/HanDaHyun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bruteforce/divide_electrical_grid_in_two/HaewonJeong.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,18 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-    &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;HaewonJeong&quot;
-    }
-    }</component>
-  <component name="GithubPullRequestsUISettings">{
-    &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/algo-crushers/java-algorithm.git&quot;,
-    &quot;accountId&quot;: &quot;57647690-114b-4901-a0b2-11799094f8e4&quot;
-    }
-    }</component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "HaewonJeong"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/algo-crushers/java-algorithm.git",
+    "accountId": "57647690-114b-4901-a0b2-11799094f8e4"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
     &quot;associatedIndex&quot;: 0,
     &quot;fromUser&quot;: false
@@ -54,8 +54,9 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/user/Desktop/2026_web_developer_course/Songpa-TIL/lecture/05_java/java-algorithm",
-    "settings.editor.selected.configurable": "preferences.general",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.HaewonJeong.executor": "Run",
     "애플리케이션.JeongHaeWon.executor": "Run"
   }
 }]]></component>
@@ -73,11 +74,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.HanDaHyun" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -88,6 +84,7 @@
       <updated>1779004222473</updated>
       <workItem from="1779004223505" duration="1087000" />
       <workItem from="1779114581220" duration="601000" />
+      <workItem from="1779676583008" duration="5847000" />
     </task>
     <servers />
   </component>
