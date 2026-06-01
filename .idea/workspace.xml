@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bbe8b8e-b937-4080-8e70-28bf8b6c895f" name="변경" comment="add bruteforce solution for dividing an electrical grid">
+    <list default="true" id="3bbe8b8e-b937-4080-8e70-28bf8b6c895f" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/structure/sorting/hIndex/HanDaHyun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="40" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,7 +53,6 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HanDaHyun.executor": "Run",
-    "Application.ParkYubin.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -61,10 +61,6 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/user/Desktop/2026_web_developer_course/Songpa-TIL/lecture/05_java/java-algorithm",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "preferences.general",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.JeongHaeWon.executor": "Run"
@@ -72,11 +68,24 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="HanDaHyun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.hIndex.HanDaHyun" />
+      <option name="MAIN_CLASS_NAME" value="structure.sorting.hIndex.HanDaHyun" />
       <module name="java-algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sorting.hIndex.*" />
+          <option name="PATTERN" value="structure.sorting.hIndex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bruteforce.vowel_dictionary.HanDaHyun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bruteforce.vowel_dictionary.HanDaHyun" />
+      <module name="java-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bruteforce.vowel_dictionary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,6 +108,8 @@
       <updated>1779004222473</updated>
       <workItem from="1779004223505" duration="1087000" />
       <workItem from="1779114581220" duration="601000" />
+      <workItem from="1779676583008" duration="5998000" />
+      <workItem from="1780023430476" duration="111000" />
     </task>
     <task id="LOCAL-00001" summary="simplify package structure in sorting and bfs modules">
       <option name="closed" value="true" />
