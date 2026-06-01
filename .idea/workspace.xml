@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bbe8b8e-b937-4080-8e70-28bf8b6c895f" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/structure/sorting/hIndex/HanDaHyun.java" afterDir="false" />
+    <list default="true" id="3bbe8b8e-b937-4080-8e70-28bf8b6c895f" name="변경" comment="add bruteforce solution for dividing an electrical grid">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +34,10 @@
     &quot;accountId&quot;: &quot;57647690-114b-4901-a0b2-11799094f8e4&quot;
     }
     }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
     &quot;associatedIndex&quot;: 0,
     &quot;fromUser&quot;: false
@@ -46,6 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HanDaHyun.executor": "Run",
+    "Application.ParkYubin.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -54,6 +61,10 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/user/Desktop/2026_web_developer_course/Songpa-TIL/lecture/05_java/java-algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "preferences.general",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.JeongHaeWon.executor": "Run"
@@ -61,11 +72,11 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="HanDaHyun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure.sorting.hIndex.HanDaHyun" />
+      <option name="MAIN_CLASS_NAME" value="sorting.hIndex.HanDaHyun" />
       <module name="java-algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structure.sorting.hIndex.*" />
+          <option name="PATTERN" value="sorting.hIndex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,10 +100,33 @@
       <workItem from="1779004223505" duration="1087000" />
       <workItem from="1779114581220" duration="601000" />
     </task>
+    <task id="LOCAL-00001" summary="simplify package structure in sorting and bfs modules">
+      <option name="closed" value="true" />
+      <created>1779410001126</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779410001126</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add bruteforce solution for dividing an electrical grid">
+      <option name="closed" value="true" />
+      <created>1779412786887</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779412786887</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sorting solved" />
+    <MESSAGE value="simplify package structure in sorting and bfs modules" />
+    <MESSAGE value="add bruteforce solution for dividing an electrical grid" />
+    <option name="LAST_COMMIT_MESSAGE" value="add bruteforce solution for dividing an electrical grid" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
