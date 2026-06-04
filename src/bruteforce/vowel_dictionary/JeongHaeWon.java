@@ -39,6 +39,7 @@ public class JeongHaeWon {
 
         for (String v : vowels) {
             String current = next + v;
+            System.out.println(current);
             al.add(current);
             dfs(current);
         }
