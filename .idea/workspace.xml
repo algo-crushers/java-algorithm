@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bbe8b8e-b937-4080-8e70-28bf8b6c895f" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bruteforce/vowel_dictionary/ParkYubin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/lifeboat/JeongHaewon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/makelargenumber/ParkYubin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/makelargenumber/JeongHaewon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +63,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main 병합 중",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/user/Desktop/2026_web_developer_course/Songpa-TIL/lecture/05_java/java-algorithm",
