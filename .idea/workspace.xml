@@ -8,8 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bbe8b8e-b937-4080-8e70-28bf8b6c895f" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bruteforce/VowelDictionary/HanDaHyun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/speedcamera/HanDaHyun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/lifeboat/HanDaHyun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/makelargenumber/HanDaHyun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HanDaHyun.executor": "Run",
+    "Application.greedy.makelargenumber.HanDaHyun.executor": "Run",
     "Application.greedy.speedcamera.HanDaHyun.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -85,7 +86,7 @@
     "애플리케이션.bruteforce.vowel_dictionary.HanDaHyun.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.greedy.speedcamera.HanDaHyun">
+  <component name="RunManager" selected="Application.greedy.makelargenumber.HanDaHyun">
     <configuration name="HanDaHyun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="structure.sorting.hIndex.HanDaHyun" />
       <module name="java-algorithm" />
@@ -112,6 +113,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="greedy.makelargenumber.HanDaHyun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.makelargenumber.HanDaHyun" />
+      <module name="java-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="greedy.makelargenumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="greedy.speedcamera.HanDaHyun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="greedy.speedcamera.HanDaHyun" />
       <module name="java-algorithm" />
@@ -127,6 +141,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.greedy.makelargenumber.HanDaHyun" />
         <item itemvalue="Application.greedy.speedcamera.HanDaHyun" />
       </list>
     </recent_temporary>
