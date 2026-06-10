@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deffe819-1f6b-4af4-a24c-da5b6ccc0099" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bfs/network/ParkYubin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/heap/more_spicy/ParkYuBin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/stack/correct_parentheses/ParkYuBin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/stack/stock_prices/ParkYuBin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="deffe819-1f6b-4af4-a24c-da5b6ccc0099" name="Changes" comment="add stack 2sol, heap 1sol, bfs 1sol" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,9 +156,22 @@
       <updated>1777948993721</updated>
       <workItem from="1777987713338" duration="6225000" />
     </task>
+    <task id="LOCAL-00001" summary="add stack 2sol, heap 1sol, bfs 1sol">
+      <option name="closed" value="true" />
+      <created>1778162086589</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778162086589</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add stack 2sol, heap 1sol, bfs 1sol" />
+    <option name="LAST_COMMIT_MESSAGE" value="add stack 2sol, heap 1sol, bfs 1sol" />
   </component>
 </project>
