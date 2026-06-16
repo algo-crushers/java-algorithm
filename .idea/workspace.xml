@@ -8,8 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bbe8b8e-b937-4080-8e70-28bf8b6c895f" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/dp/n_expression/HanDaHyun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/greedy/makelargenumber/JeongHaewon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/greedy/makelargenumber/JeongHaewon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/greedy/lifeboat/HanDaHyun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/greedy/lifeboat/HanDaHyun.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,10 @@
     &quot;accountId&quot;: &quot;c421c8c2-aff9-492d-b9cc-7f085ce525c0&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
